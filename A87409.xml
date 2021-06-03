@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull newes from the Isle of Ely, declaring the manner of the apprehending of Bishop Wren, and his bringing up to London, together with his treasure, on Thursday the first of September, by a company of horsmen that went to search his house, being suspected to have store of armes and ammunition, attested by George Hubbard, dwelling at Downham where the bishops pallace is, and now evidently appeares by his apprehension. Also the true proceedings at Portsmouth. Or, the humble desires of Colonell Goring to the forces of the Parliament: wherein is declared, that he will deliver up the town to them, provided they will grant him his life.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87409</idno><idno type="EEBO-CITATION">99871532</idno>
+  <idno type="VID">156015</idno>
+  <idno type="EEBO-PROQUEST">2240940665</idno>
+  
+            <idno type="STC">Wing J1145</idno>
+            <idno type="STC">Thomason E115_9</idno>
+            <idno type="STC">ESTC R21893</idno>
+            <idno type="PROQUEST">99871532</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871532e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156015)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull newes from the Isle of Ely, declaring the manner of the apprehending of Bishop Wren, and his bringing up to London, together with his treasure, on Thursday the first of September, by a company of horsmen that went to search his house, being suspected to have store of armes and ammunition, attested by George Hubbard, dwelling at Downham where the bishops pallace is, and now evidently appeares by his apprehension. Also the true proceedings at Portsmouth. Or, the humble desires of Colonell Goring to the forces of the Parliament: wherein is declared, that he will deliver up the town to them, provided they will grant him his life.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.B.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Septemb. 2. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Goring, George Goring, --  Baron, 1608-1657.</term>
+               <term type="personal_name">Wren, Matthew, 1585-1667.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Portsmouth (England) --  History, Military --  Early works to 1800.</term>
+               <term type="geographic_name">Isle of Ely (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156015:1"/>
+            <p> JOYFULL NEWES FROM THE ISLE OF ELY, DECLARING The manner of the apprehending of Bishop <hi>Wren,</hi> and his bringing up to <hi>London,</hi> together with his Treasure, on Thursday the first of September, by a Company of Horsmen that went to search his house, being suspected to have store of Armes and Ammunition, attested by <hi>George Hubbard,</hi> dwelling at <hi>Downham</hi> where the Bishops Pallace is, and now evidently ap<g ref="char:EOLhyphen"/>peares by his apprehension.</p>
+            <p>ALSO THE TRUE PROCEEDINGS AT PORTSMOVTH.</p>
+            <p>OR, The humble desires of Colonell <hi>Goring</hi> to the Forces of the Parliament: <hi>Wherein is declared, that he will deliver up the Town to them, provided they will grant him his life.</hi>
+            </p>
+            <p>Printed for <hi>W. B.</hi> Septemb. 2. 1642.</p>
+            <pb facs="tcp:156015:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156015:2"/>
+            <head>JOYFULL NEWES FROM <hi>THE ISLE OF ELY:</hi> Declaring how a Troupe of Horse is gone into <hi>Cambridge shire</hi> to search the Papists Houses, among which D. <hi>Wren</hi> Bishop of <hi>Ely</hi> is like to suffer, being suspected to have store of Ammunition.</head>
+            <p>ON Munday the nine and twentieth of August a Troupe of well-affected Horsemen met together in <hi>Cumbridge-Skire</hi> neere <hi>Cherrie-Hinton,</hi> with an intent to search all the Papists house<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereabouts, in which search they found but small store of armes and ammunition, at which they not a little wondered: but one among the rest told them, they had mist one of the greatest Papists, of a little one, in the whole King<g ref="char:EOLhyphen"/>dome: and being asked who it was, he told them it was D. <hi>Wren</hi> Bishop of <hi>Ely;</hi> and that it was not improbable that the Papists had made his house their Magazine, he being
+<pb n="2" facs="tcp:156015:3"/> the chiefe authour of these troubles in this Kingdome.</p>
+            <p>This being mentioned, they all agreed furnish themselves accordingly, with pow<g ref="char:EOLhyphen"/>der and shot, and forthwith to march thi<g ref="char:EOLhyphen"/>ther, purposing to search out all his treache<g ref="char:EOLhyphen"/>ry, wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all promising to clip his wings, if they could catch him.</p>
+            <p>Moreover, it is reported by the Attester of thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Relation, that the Bishop doth coun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ena<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce all outrag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s whatsoever, nay murder it selfe; for his Steward lately k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld a poore man for demanding money for his labour, who after many reproachfull and menacing words, had his braines beat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n out, and the Steward now lives under the Bishops protection.</p>
+            <p>Likewise the said Bishop hath entertai<g ref="char:EOLhyphen"/>ned all the deboist Cavaliers that inhabited in the Colledge and townes▪ being fittest for his purpose.</p>
+            <p>The Island of it selfe is very strong; but the chiefe Officers thereof are for the most part of the Bishops faction, his power ha<g ref="char:EOLhyphen"/>ving beene formerly so great and uncon<g ref="char:EOLhyphen"/>trouleable in the Island: But there is great hope that they will stand firme to the Par<g ref="char:EOLhyphen"/>liament: and the rather, because they hope that the Parliament will give them their
+<pb n="3" facs="tcp:156015:3"/> Fennes againe, and curbe the undertakers, the countrey being almost undone for want of them.</p>
+            <p>The Isle is furnished with store of good horses, and able men, but in their discipline ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y rude, for want of expert Commanders. This is the truth,</p>
+            <closer>
+               <signed>Attested by <hi>George Hubbard,</hi> inhabitant of <hi>Downham</hi> in the <hi>Isle of Ely.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>The truth and certainty of this attestation is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow most evident: for now after this re<g ref="char:EOLhyphen"/>lation of the Horsemen that were sent to search the Prelates house, he was brought up to <hi>London,</hi> toge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her with great store of money, which the Priest had gathered toge<g ref="char:EOLhyphen"/>ther to further the designes of the male-con<g ref="char:EOLhyphen"/>tent and ill-affected Clergie, as is probably coniectured. The iust summe of his trea<g ref="char:EOLhyphen"/>sure is not yet certainly known. <hi>Ex aliis alia quaeras,</hi> if thou thy selfe hast better.</p>
+            </postscript>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:156015:4"/>
+            <head>
+               <hi>THE</hi> TRUE PROCEEDINGS <hi>AT</hi> PORTSMOVTH. <hi>OR,</hi> The humble desires of Colonell <hi>Goring</hi> to the Forces of the Parliament.</head>
+            <head type="sub">Wherein is declared that he will deliver up the town to them, provided they will grant him his life.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliaments Forces by the assistance of the trained bands in <hi>Hampshire</hi> having cooped up Colonell <hi>Goring</hi> in the towne, and seized upon all his out-works, daily plying him with their Ord<g ref="char:EOLhyphen"/>nance, the towne being divided, and keep<g ref="char:EOLhyphen"/>ing garrison one upon the other, insomuch that Colonell <hi>Goring</hi> finding small hope of security in the towne, and seeing His Maie<g ref="char:EOLhyphen"/>sties expected aid intercepted, hath thought
+<pb n="5" facs="tcp:156015:4"/> it most requisite to make the best of a hard bargaine and having lost all but the last st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, well to husband it, lest in losing that he b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>come a bankerupt.</p>
+            <p>Wherefore he hath humbly presented his desire to the Commanders of the Parlia<g ref="char:EOLhyphen"/>ments Forces, wherein are contained these particulars.</p>
+            <p>That although it were in his own power to keep the towne against them, yet so farre he did pitie the distressed estate of the town, that to prevent the effusion of blood he was willing to resigne up the towne, upon this condition, that upon the delivery of the said towne, his life might be secured, and have free recourse to his Maiesty.</p>
+            <p>But they knowing that this request made by the Colonell was more for his own ends, then any intention of good service to the State, still proceed in making of works, the Pioners being very active in their designes. The souldiers likewise are very forward, and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke severall assaults, thinking to draw them out of the towne: but they play least in sight, only playing with their Ordnance; but, the besiegers being intrencht, they do little hurt, onely now and then a bullet lights in the trenches.</p>
+            <p>The Cavaliers made an attempt to sal<g ref="char:EOLhyphen"/>ley out of the towne upon some forces of
+<pb n="6" facs="tcp:156015:5"/> ours came with provision, but being resi<g ref="char:EOLhyphen"/>sted, they were forced to flie, some of the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g the river, were forc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to swim for it, being glad they could so escape away.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertaine letters were taken which were opened, wherein there was a discovery of the intention of the Cavaliers to give an alarme by night from <hi>Chichester</hi> side, by that meanes to draw our Forces from before <hi>Portsmouth,</hi> thinking by that meanes to give the Colonel and his souldiers opportunity to escap<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but their proiect being discovered, the Co<g ref="char:EOLhyphen"/>lonell remaines our fast-friend, without a<g ref="char:EOLhyphen"/>ny hope of deliverance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
